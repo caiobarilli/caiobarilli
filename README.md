@@ -10,6 +10,7 @@
   <a href="https://gist.github.com/caiobarilli">
     <img src="https://img.shields.io/badge/Gists-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  
   <a href="https://caiobarilli.github.io/">
     <img src="https://img.shields.io/badge/Github Page-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
