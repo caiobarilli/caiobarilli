@@ -10,6 +10,9 @@
   <a href="https://gist.github.com/caiobarilli">
     <img src="https://img.shields.io/badge/Gists-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://caiobarilli.github.io/">
+    <img src="https://img.shields.io/badge/Github Page-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/caiobarilli/caiobarilli/main/public/img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
