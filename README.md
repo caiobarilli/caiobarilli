@@ -61,6 +61,12 @@ by [**Willian Justen de Vasconcellos**](https://www.udemy.com/course/react-avanc
 [**web**](https://www.udemy.com/certificate/UC-302fecd7-ea13-4180-923c-4698f5880c47/) |
 [**pdf**](https://udemy-certificate.s3.amazonaws.com/pdf/UC-302fecd7-ea13-4180-923c-4698f5880c47.pdf)
 
+[<img align="left" height="94px" width="135px" alt="React Native - The Practical Guide [2022]" src="https://img-c.udemycdn.com/course/240x135/1436092_2024_4.jpg"/>](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+**React Native - The Practical Guide [2022]** \
+[**Academind**](https://www.udemy.com/user/academind/) by Maximilian Schwarzmüller \
+\
+<br/>
+
 [<img align="left" height="94px" width="135px" alt="Desenvolvimento Web Avançado 2022 com PHP, Laravel e Vue.JS" src="https://img-b.udemycdn.com/course/750x422/3178182_ecf3.jpg"/>](https://www.udemy.com/course/curso-completo-do-desenvolvedor-laravel)
 **Desenvolvimento Web Avançado 2022 com PHP, Laravel e Vue.JS** \
 by [**Jorge Sant Ana**](https://www.udemy.com/user/jorgetadeusantanasilva/)  \
