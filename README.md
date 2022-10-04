@@ -31,10 +31,6 @@ I have worked with a variety of open source languages and technologies like PHP,
   📖 I'm currently learning a lot about Graphql, Nextjs, Typescript and <strong>many other things</strong>
 </p>
 
-<br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=caiobarilli&count_private=true&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiobarilli&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-
 <br/>
 
 ### Certificates
