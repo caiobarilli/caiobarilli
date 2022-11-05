@@ -3,10 +3,6 @@
 <hr>
 
 <p align="left">
-  <a href="https://www.instagram.com/caiobarilli/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
   <a href="https://gist.github.com/caiobarilli">
     <img src="https://img.shields.io/badge/Gists-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
