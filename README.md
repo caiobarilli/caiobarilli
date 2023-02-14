@@ -20,17 +20,6 @@ I am currently employed as a Technologist in Internet Systems at Centro Universi
 My current focus is on enhancing my proficiency in Graphql, Nextjs, Typescript, and other emerging technologies. I am continuously expanding my knowledge base to improve my skill set and deliver innovative solutions.
 </p>
 
-<p align="left">
-  🎓 Technologist in Internet Systems at <a target="_blank" href="https://www.sp.senac.br/tsi"> Centro Universitário Senac </a>
-</p>
-
-<p align="left">
-  🧑‍💼 I am currently working with Typescript and NextJs <strong> ( but I also do freelance with Wordpress ) </strong>
-</p>
-
-<p align="left">
-  📖 I'm currently learning a lot about Graphql, Nextjs, Typescript and <strong>many other things</strong>
-</p>
 
 <br/>
 
