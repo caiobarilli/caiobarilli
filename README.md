@@ -11,8 +11,13 @@
 <img src="https://raw.githubusercontent.com/caiobarilli/caiobarilli/main/public/img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-I am a Frontend developer Technologist in Internet Systems, with 7 years of experience in the area.
-I have worked with a variety of open source languages and technologies like PHP, Javascript and more.
+As a Technologist in Internet Systems with seven years of experience in the field, I possess expertise as a Frontend Developer. I have a comprehensive understanding of open-source languages and technologies such as PHP, Javascript, and more.
+</p>
+<p align="left">
+I am currently employed as a Technologist in Internet Systems at Centro Universitário Senac, where I work with Typescript and NextJs. Additionally, I engage in freelance work involving WordPress.
+</p>
+<p align="left">
+My current focus is on enhancing my proficiency in Graphql, Nextjs, Typescript, and other emerging technologies. I am continuously expanding my knowledge base to improve my skill set and deliver innovative solutions.
 </p>
 
 <p align="left">
