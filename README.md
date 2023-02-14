@@ -1,5 +1,5 @@
-
 ### Welcome to my profile! <img src="https://raw.githubusercontent.com/caiobarilli/caiobarilli/main/public/img/hand-illustration.gif" width="25px">
+
 <hr>
 
 <p align="left">
@@ -11,15 +11,20 @@
 <img src="https://raw.githubusercontent.com/caiobarilli/caiobarilli/main/public/img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-As a Technologist in Internet Systems with eight years of experience in the field, I possess expertise as a Frontend Developer. I have a comprehensive understanding of open-source languages and technologies such as PHP, Javascript, and more.
-</p>
-<p align="left">
-I am currently employed as a Technologist in Internet Systems at Centro Universitário Senac, where I work with Typescript and NextJs. Additionally, I engage in freelance work involving WordPress.
-</p>
-<p align="left">
-My current focus is on enhancing my proficiency in Graphql, Nextjs, Typescript, and other emerging technologies. I am continuously expanding my knowledge base to improve my skill set and deliver innovative solutions.
+As a Technologist in Internet Systems with seven years of experience in the field, I possess expertise as a Frontend Developer. I have a comprehensive understanding of open-source languages and technologies such as PHP, Javascript, and more.
 </p>
 
+<p align="left">
+  🎓 Technologist in Internet Systems at <a target="_blank" href="https://www.sp.senac.br/tsi"> Centro Universitário Senac </a>
+</p>
+
+<p align="left">
+  🧑‍💼 I am currently working with Typescript and NextJs <strong> ( but I also do freelance with Wordpress ) </strong>
+</p>
+
+<p align="left">
+  📖 I'm currently learning a lot about Graphql, Nextjs, Typescript and <strong>many other things</strong>
+</p>
 
 <br/>
 
@@ -55,7 +60,7 @@ by [**Willian Justen de Vasconcellos**](https://www.udemy.com/course/react-avanc
 
 [<img align="left" height="94px" width="135px" alt="Desenvolvimento Web Avançado 2022 com PHP, Laravel e Vue.JS" src="https://img-b.udemycdn.com/course/750x422/3178182_ecf3.jpg"/>](https://www.udemy.com/course/curso-completo-do-desenvolvedor-laravel)
 **Desenvolvimento Web Avançado 2022 com PHP, Laravel e Vue.JS** \
-by [**Jorge Sant Ana**](https://www.udemy.com/user/jorgetadeusantanasilva/)  \
+by [**Jorge Sant Ana**](https://www.udemy.com/user/jorgetadeusantanasilva/) \
 \
 <strong>Certificate of completion:</strong>
 [**web**](https://www.udemy.com/certificate/UC-3b7bc85c-0413-4d31-8b30-226802c06c60/) |
@@ -63,9 +68,9 @@ by [**Jorge Sant Ana**](https://www.udemy.com/user/jorgetadeusantanasilva/)  \
 
 [<img align="left" height="94px" width="135px" alt="Criação de Temas WordPress com WooCommerce: Curso Avançado" src="https://img-b.udemycdn.com/course/750x422/2792326_6a94_4.jpg"/>](https://www.udemy.com/course/woocommerce-wordpress-curso-avancado/)
 **Criação de Temas WordPress com WooCommerce: Curso Avançado** \
- by [**Marcelo Xavier Vieira**](https://www.udemy.com/user/marceloxaviervieira/)  \
+ by [**Marcelo Xavier Vieira**](https://www.udemy.com/user/marceloxaviervieira/) \
 \
 <strong>Certificate of completion:</strong>
 [**web**](https://www.udemy.com/certificate/UC-ef93d45e-8508-475b-9541-8a3dcfa0d231/) |
-[**pdf**](https://udemy-certificate.s3.amazonaws.com/pdf/UC-ef93d45e-8508-475b-9541-8a3dcfa0d231.pdf)  \
+[**pdf**](https://udemy-certificate.s3.amazonaws.com/pdf/UC-ef93d45e-8508-475b-9541-8a3dcfa0d231.pdf) \
 <br/>
