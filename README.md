@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/caiobarilli/caiobarilli/main/public/img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-As a Technologist in Internet Systems with seven years of experience in the field, I possess expertise as a Frontend Developer. I have a comprehensive understanding of open-source languages and technologies such as PHP, Javascript, and more.
+Technologist in Internet Systems with seven years of experience in the field, I possess expertise as a Frontend Developer. I have a comprehensive understanding of open-source languages and technologies such as PHP, Javascript, and more.
 </p>
 
 <p align="left">
