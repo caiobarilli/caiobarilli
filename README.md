@@ -34,7 +34,7 @@ Technologist in Internet Systems with seven years of experience in the field, I 
 
 
 [<img align="left" height="94px" width="135px" alt="Criação de Temas WordPress com WooCommerce: Curso Avançado" src="https://hotmart.s3.amazonaws.com/product_pictures/4ace1b5f-58ac-4b8a-8ec2-223c8e0af6d2/fotoprincipal.jpg"/>](https://hotmart.com/pt-br/marketplace/produtos/como-criar-cruds-com-qualidade-por-devsoutinho)
-**Criação de Temas WordPress com WooCommerce: Curso Avançado** \
+**Como criar CRUDs com Qualidade? por DevSoutinho** \
  by [**Mario Souto - DevSoutinho**](https://hotmart.com/pt-br/marketplace/produtos/como-criar-cruds-com-qualidade-por-devsoutinho) \
 \
 <strong>Certificate of completion:</strong>
