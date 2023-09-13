@@ -32,6 +32,16 @@ Technologist in Internet Systems with seven years of experience in the field, I 
 
 <hr>
 
+
+[<img align="left" height="94px" width="135px" alt="Criação de Temas WordPress com WooCommerce: Curso Avançado" src="https://hotmart.s3.amazonaws.com/product_pictures/4ace1b5f-58ac-4b8a-8ec2-223c8e0af6d2/fotoprincipal.jpg"/>](https://hotmart.com/pt-br/marketplace/produtos/como-criar-cruds-com-qualidade-por-devsoutinho)
+**Criação de Temas WordPress com WooCommerce: Curso Avançado** \
+ by [**Mario Souto - DevSoutinho**](https://hotmart.com/pt-br/marketplace/produtos/como-criar-cruds-com-qualidade-por-devsoutinho) \
+\
+<strong>Certificate of completion:</strong>
+[**web**](https://crudcomqualidade.club.hotmart.com/public/user-certificate/8da138cf-3a93-4e91-b4ed-86bf63efb5e2/_)
+<br/>
+
+
 [<img align="left" height="94px" width="135px" alt="React Avançado: Crie aplicações com NextJS, Strapi e mais" src="https://img-b.udemycdn.com/course/240x135/3210857_1c0e.jpg"/>](https://www.udemy.com/course/react-avancado/)
 **React Avançado: Crie aplicações com NextJS, Strapi e mais** \
 by [**Willian Justen de Vasconcellos**](https://www.udemy.com/course/react-avancado/#instructor-1) & [**Guilherme Louro**](https://www.udemy.com/course/react-avancado/#instructor-2) \
@@ -66,11 +76,3 @@ by [**Jorge Sant Ana**](https://www.udemy.com/user/jorgetadeusantanasilva/) \
 [**web**](https://www.udemy.com/certificate/UC-3b7bc85c-0413-4d31-8b30-226802c06c60/) |
 [**pdf**](https://udemy-certificate.s3.amazonaws.com/pdf/UC-3b7bc85c-0413-4d31-8b30-226802c06c60.pdf)
 
-[<img align="left" height="94px" width="135px" alt="Criação de Temas WordPress com WooCommerce: Curso Avançado" src="https://img-b.udemycdn.com/course/750x422/2792326_6a94_4.jpg"/>](https://www.udemy.com/course/woocommerce-wordpress-curso-avancado/)
-**Criação de Temas WordPress com WooCommerce: Curso Avançado** \
- by [**Marcelo Xavier Vieira**](https://www.udemy.com/user/marceloxaviervieira/) \
-\
-<strong>Certificate of completion:</strong>
-[**web**](https://www.udemy.com/certificate/UC-ef93d45e-8508-475b-9541-8a3dcfa0d231/) |
-[**pdf**](https://udemy-certificate.s3.amazonaws.com/pdf/UC-ef93d45e-8508-475b-9541-8a3dcfa0d231.pdf) \
-<br/>
