@@ -15,15 +15,15 @@ Technologist in Internet Systems with eleven years of experience in the field, I
 </p>
 
 <p align="left">
-  🎓 Technologist in Internet Systems at <a target="_blank" href="https://www.sp.senac.br/tsi"> Centro Universitário Senac </a>
+  🎓 Getting ready to start a postgraduate degree in Software Architecture.
 </p>
 
 <p align="left">
-  🧑‍💼 I am currently working with Typescript and NextJs <strong> ( but I also do freelance with Wordpress ) </strong>
+  📖 Studying extensively TypeScript and frameworks like Next.js, Expo, and Nest.js.
 </p>
 
 <p align="left">
-  📖 I'm currently learning a lot about Graphql, Nextjs, Typescript and <strong>many other things</strong>
+  🧑‍💼 Currently seeking new job opportunities.
 </p>
 
 <br/>
