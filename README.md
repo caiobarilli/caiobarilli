@@ -19,7 +19,7 @@ Technologist in Internet Systems with eleven years of experience in the field, I
 </p>
 
 <p align="left">
-  📖 Studying extensively TypeScript and frameworks like Next.js, Expo, and Nest.js.
+  📖 Studying extensively TypeScript and frameworks like Next.js, Expo, and Nestjs.
 </p>
 
 <p align="left">
