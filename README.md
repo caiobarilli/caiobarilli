@@ -33,6 +33,20 @@ Technologist in Internet Systems with eleven years of experience in the field, I
 <hr>
 
 
+[<img align="left" height="94px" width="135px" alt="Understanding TypeScript - 2022 Edition" src="https://img-c.udemycdn.com/course/240x135/1646980_23f7_3.jpg"/>](https://www.udemy.com/course/mern-stack-front-to-back/)
+Angular & NodeJS - The MEAN Stack Guide [2023 Edition] \
+[**Academind**](https://www.udemy.com/user/academind/) by Maximilian Schwarzmüller \
+\
+<br/>
+
+
+[<img align="left" height="94px" width="135px" alt="Understanding TypeScript - 2022 Edition" src="https://img-c.udemycdn.com/course/240x135/833442_b26e_5.jpg"/>](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/)
+MERN Stack Front To Back: Full Stack React, Redux & Node.js \
+by [**Brad Traversy**](https://www.udemy.com/course/mern-stack-front-to-back/#instructor-1)  \
+\
+<br/>
+
+
 [<img align="left" height="94px" width="135px" alt="Criação de Temas WordPress com WooCommerce: Curso Avançado" src="https://hotmart.s3.amazonaws.com/product_pictures/4ace1b5f-58ac-4b8a-8ec2-223c8e0af6d2/fotoprincipal.jpg"/>](https://hotmart.com/pt-br/marketplace/produtos/como-criar-cruds-com-qualidade-por-devsoutinho)
 **Como criar CRUDs com Qualidade? por DevSoutinho** \
  by [**Mario Souto - DevSoutinho**](https://hotmart.com/pt-br/marketplace/produtos/como-criar-cruds-com-qualidade-por-devsoutinho) \
