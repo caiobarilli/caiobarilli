@@ -33,14 +33,14 @@ Technologist in Internet Systems with eleven years of experience in the field, I
 <hr>
 
 
-[<img align="left" height="94px" width="135px" alt="Understanding TypeScript - 2022 Edition" src="https://img-c.udemycdn.com/course/240x135/1646980_23f7_3.jpg"/>](https://www.udemy.com/course/mern-stack-front-to-back/)
+[<img align="left" height="94px" width="135px" alt="Understanding TypeScript - 2022 Edition" src="https://img-c.udemycdn.com/course/240x135/833442_b26e_5.jpg"/>](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/)
 Angular & NodeJS - The MEAN Stack Guide [2023 Edition] \
 [**Academind**](https://www.udemy.com/user/academind/) by Maximilian Schwarzmüller \
 \
 <br/>
 
 
-[<img align="left" height="94px" width="135px" alt="Understanding TypeScript - 2022 Edition" src="https://img-c.udemycdn.com/course/240x135/833442_b26e_5.jpg"/>](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/)
+[<img align="left" height="94px" width="135px" alt="Understanding TypeScript - 2022 Edition" src="https://img-c.udemycdn.com/course/240x135/1646980_23f7_3.jpg"/>](https://www.udemy.com/course/mern-stack-front-to-back/)
 MERN Stack Front To Back: Full Stack React, Redux & Node.js \
 by [**Brad Traversy**](https://www.udemy.com/course/mern-stack-front-to-back/#instructor-1)  \
 \
