@@ -36,6 +36,7 @@ Technologist in Internet Systems with eleven years of experience in the field, I
 [<img align="left" height="94px" width="135px" alt="Understanding TypeScript - 2022 Edition" src="https://img-c.udemycdn.com/course/240x135/2020278_e07c_8.jpg"/>](https://www.udemy.com/course/laravel-beginner-fundamentals/)
 Master Laravel 10 for Beginners & Intermediate 2023 \
 by [**Piotr Jura**](https://www.udemy.com/course/laravel-beginner-fundamentals/#instructor-1) \
+\
 <br/>
 
 
