@@ -33,8 +33,14 @@ Technologist in Internet Systems with eleven years of experience in the field, I
 <hr>
 
 
+[<img align="left" height="94px" width="135px" alt="Understanding TypeScript - 2022 Edition" src="https://img-c.udemycdn.com/course/240x135/2020278_e07c_8.jpg"/>](https://www.udemy.com/course/laravel-beginner-fundamentals/)
+Master Laravel 10 for Beginners & Intermediate 2023\
+by [**Piotr Jura**](https://www.udemy.com/course/laravel-beginner-fundamentals/#instructor-1) \
+<br/>
+
+
 [<img align="left" height="94px" width="135px" alt="Understanding TypeScript - 2022 Edition" src="https://img-c.udemycdn.com/course/240x135/833442_b26e_5.jpg"/>](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/)
-Angular & NodeJS - The MEAN Stack Guide [2023 Edition] \
+Angular & NodeJS - The MEAN Stack Guide \
 [**Academind**](https://www.udemy.com/user/academind/) by Maximilian Schwarzmüller \
 \
 <br/>
