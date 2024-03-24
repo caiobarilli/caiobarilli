@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/caiobarilli/caiobarilli/main/public/img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/caiobarilli/caiobarilli/main/public/img/computer-illustration-green.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
 Technologist in Internet Systems with eleven years of experience in the field, I possess expertise as a Frontend Developer. I have a comprehensive understanding of open-source languages and technologies such as PHP, Javascript, and more.
