@@ -27,7 +27,7 @@ Minhas áreas de especialização incluem:<br/>
 💻 Frontend: Javascript, React, Expo, Next.js, Angular, Styled-components e Tailwind CSS<br/>
 🗄️ Bancos de Dados: PostgreSQL, MySQL e MongoDB
 <br/>
-Para conhecer mais sobre meu trabalho, visite meu perfil no Linkedin em [github.com/caiobarilli](https://www.linkedin.com/in/caio-barilli/). Fique à vontade para me contatar via mensagem direta ou solicitar meu número de WhatsApp para discutirmos como posso contribuir para o seu próximo projeto!
+Para conhecer mais sobre meu trabalho, visite meu perfil no Linkedin em (https://www.linkedin.com/in/caio-barilli)[https://www.linkedin.com/in/caio-barilli]. Fique à vontade para me contatar via mensagem direta ou solicitar meu número de WhatsApp para discutirmos como posso contribuir para o seu próximo projeto!
 </p>
 
 
