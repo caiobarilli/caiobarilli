@@ -13,19 +13,21 @@
 <br/>
 
 <p align="left">
-Technologist in Internet Systems with eleven years of experience in the field, I possess expertise as a Frontend Developer. I have a comprehensive understanding of open-source languages and technologies such as PHP, Javascript, and more.
-</p>
-
-<p align="left">
-  🎓 Getting ready to start a postgraduate degree in Software Architecture.
-</p>
-
-<p align="left">
-  📖 Studying extensively TypeScript and frameworks like Next.js, Expo, and Nestjs.
-</p>
-
-<p align="left">
-  🧑‍💼 Currently seeking new job opportunities.
+👋 Olá, eu sou Caio, um desenvolvedor fullstack apaixonado por tecnologia, com quase 8 anos de experiência no mercado. Tenho formação em Sistemas para Internet pelo Centro Universitário Senac, em São Paulo.<br/>
+<br/>
+🚀 Sou comprometido com resultados e focado na entrega de projetos de alta qualidade dentro dos prazos estabelecidos. Minha motivação vem de projetos escaláveis e seguros, com ênfase em performance e tecnologias inovadoras. Estou constantemente buscando otimizar processos e implementar soluções sustentáveis preparadas para o futuro. Adoro explorar novas ferramentas e frameworks, aplicando-as estrategicamente para melhorar a eficiência e eficácia dos projetos.
+<br/>
+💡 Ao longo da minha carreira, desenvolvi projetos tanto como freelancer quanto em empresas, desde a concepção até a entrega final. Tive a oportunidade de liderar equipes, definir arquiteturas de sistemas e garantir a implementação das melhores práticas de desenvolvimento técnico.<br/>
+<br/>
+🎓 Minha formação em Tecnólogo em Sistemas para Internet pelo Centro Universitário Senac proporcionou uma base sólida em desenvolvimento web e tecnologias correlatas. Além disso, possuo certificações em tecnologias como React, Next.js, Laravel, entre outras, mantendo-me atualizado com as últimas tendências e melhores práticas do mercado.<br/>
+<br/>
+Minhas áreas de especialização incluem:<br/>
+<br/>
+🔧 Backend: PHP (Laravel, Wordpress), Javascript (Express, Nest.js)<br/>
+💻 Frontend: Javascript, React, Expo, Next.js, Angular, Styled-components e Tailwind CSS<br/>
+🗄️ Bancos de Dados: PostgreSQL, MySQL e MongoDB
+<br/>
+Para conhecer mais sobre meu trabalho, visite meu perfil no Linkedin em [github.com/caiobarilli](https://www.linkedin.com/in/caio-barilli/). Fique à vontade para me contatar via mensagem direta ou solicitar meu número de WhatsApp para discutirmos como posso contribuir para o seu próximo projeto!
 </p>
 
 
