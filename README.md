@@ -17,7 +17,7 @@ Olá, eu sou Caio, um desenvolvedor fullstack apaixonado por tecnologia, com qua
 <br/>
 💡 Ao longo da minha carreira, desenvolvi projetos tanto como freelancer quanto em empresas, desde a concepção até a entrega final. Tive a oportunidade de liderar equipes, definir arquiteturas de sistemas e garantir a implementação das melhores práticas de desenvolvimento técnico.<br/>
 <br/>
-🎓 Minha formação em Tecnólogo em Sistemas para Internet pelo Centro Universitário Senac proporcionou uma base sólida em desenvolvimento web e tecnologias correlatas. Além disso, possuo certificações em tecnologias como React, Next.js, Laravel, entre outras, mantendo-me atualizado com as últimas tendências e melhores práticas do mercado.<br/>
+🎓 Minha formação em Tecnólogo em Sistemas para Internet pelo Centro Universitário Senac proporcionou uma base sólida em desenvolvimento web e tecnologias correlatas. <br/>
 <br/>
 Minhas áreas de especialização incluem:<br/>
 <br/>
