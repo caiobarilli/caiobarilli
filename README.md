@@ -13,7 +13,7 @@
 <br/>
 
 <p align="left">
-👋 Olá, eu sou Caio, um desenvolvedor fullstack apaixonado por tecnologia, com quase 8 anos de experiência no mercado. Tenho formação em Sistemas para Internet pelo Centro Universitário Senac, em São Paulo.<br/>
+Olá, eu sou Caio, um desenvolvedor fullstack apaixonado por tecnologia, com quase 8 anos de experiência no mercado. Tenho formação em Sistemas para Internet pelo Centro Universitário Senac, em São Paulo.<br/>
 <br/>
 🚀 Sou comprometido com resultados e focado na entrega de projetos de alta qualidade dentro dos prazos estabelecidos. Minha motivação vem de projetos escaláveis e seguros, com ênfase em performance e tecnologias inovadoras. Estou constantemente buscando otimizar processos e implementar soluções sustentáveis preparadas para o futuro. Adoro explorar novas ferramentas e frameworks, aplicando-as estrategicamente para melhorar a eficiência e eficácia dos projetos.<br/>
 <br/>
