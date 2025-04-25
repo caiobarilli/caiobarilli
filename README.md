@@ -22,6 +22,7 @@ Olá, eu sou Caio, um desenvolvedor fullstack apaixonado por tecnologia, com qua
 <br/>
 📚 Atualmente, estou cursando uma <strong>Pós-graduação Lato Sensu (MBA) em DevOps, Automation & Cloud Strategy pela FIAP</strong> com foco em práticas avançadas de DevOps, automação, segurança e estratégias em cloud pública, voltadas à transformação da TI organizacional.
 <br/>
+<br/>
 Minhas áreas de especialização incluem:<br/>
 <br/>
 🔧 Backend: PHP (Laravel, Wordpress), Javascript (Express, Nest.js)<br/>
