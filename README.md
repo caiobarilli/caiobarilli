@@ -20,7 +20,7 @@ Olá, eu sou Caio, um desenvolvedor fullstack apaixonado por tecnologia, com qua
 🎓 Minha formação em Tecnólogo em Sistemas para Internet pelo Centro Universitário Senac proporcionou uma base sólida em desenvolvimento web e tecnologias correlatas. 
 <br/>
 <br/>
-📚 Atualmente, estou cursando uma <strong>Pós-graduação Lato Sensu (MBA) em DevOps, Automation & Cloud Strategy pela FIAP</strong> (abr/2025 – abr/2026), com foco em práticas avançadas de DevOps, automação, segurança e estratégias em cloud pública, voltadas à transformação da TI organizacional.
+📚 Atualmente, estou cursando uma <strong>Pós-graduação Lato Sensu (MBA) em DevOps, Automation & Cloud Strategy pela FIAP</strong> com foco em práticas avançadas de DevOps, automação, segurança e estratégias em cloud pública, voltadas à transformação da TI organizacional.
 <br/>
 Minhas áreas de especialização incluem:<br/>
 <br/>
