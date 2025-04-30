@@ -25,7 +25,7 @@ Olá, eu sou Caio, um desenvolvedor fullstack apaixonado por tecnologia, com qua
 <br/>
 Minhas áreas de especialização incluem:<br/>
 <br/>
-🔧 Backend: PHP (Laravel, Wordpress), Javascript (Express, Nest.js)<br/>
+🔧 Backend: PHP (Laravel, Wordpress), Javascript (Nest.js)<br/>
 💻 Frontend: Typescript, React, Expo, Next.js, Angular, Styled-components e Tailwind CSS<br/>
 🗄️ Bancos de Dados: PostgreSQL, MySQL e MongoDB
 <br/>
