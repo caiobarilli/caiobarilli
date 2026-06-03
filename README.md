@@ -16,7 +16,7 @@ Olá, eu sou Caio, desenvolvedor fullstack com mais de 10 anos de experiência n
 <br/>
 💡 Ao longo da carreira, desenvolvi projetos como freelancer e em empresas, da concepção à entrega. Liderei equipes, defini arquiteturas e garanti boas práticas em projetos de diferentes portes e complexidades. Hoje atuo na intersecção entre engenharia de software, infraestrutura e automação.<br/>
 <br/>
-✍️ Escrevo sobre infraestrutura, DevOps e desenvolvimento no <a href="https://medium.com/@caiobarilli">Medium</a>, com foco em implementações reais e problemas concretos.<br/>
+✍️ Escrevo sobre infraestrutura, DevOps e desenvolvimento no <a href="https://medium.com/@caiobarilli">Medium</a> com foco em implementações reais e problemas concretos.<br/>
 <br/>
 Minhas áreas de especialização incluem:<br/>
 <br/>
