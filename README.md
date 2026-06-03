@@ -13,22 +13,21 @@
 <br/>
 
 <p align="left">
-Olá, eu sou Caio, um desenvolvedor fullstack apaixonado por tecnologia, com quase 10 anos de experiência no mercado. Tenho formação em Sistemas para Internet pelo Centro Universitário Senac.<br/>
+Olá, eu sou Caio, desenvolvedor fullstack com mais de 10 anos de experiência no mercado. Formado em Sistemas para Internet pelo Centro Universitário Senac e MBA concluído em DevOps, Automation & Cloud Strategy pela FIAP.<br/>
 <br/>
-💡 Ao longo da minha carreira, desenvolvi projetos tanto como freelancer quanto em empresas, desde a concepção até a entrega final. Tive a oportunidade de liderar equipes, definir arquiteturas de sistemas e garantir a implementação das melhores práticas de desenvolvimento técnico.<br/>
+💡 Ao longo da carreira, desenvolvi projetos como freelancer e em empresas, da concepção à entrega. Liderei equipes, defini arquiteturas e garanti boas práticas em projetos de diferentes portes e complexidades. Hoje atuo na intersecção entre engenharia de software, infraestrutura e automação.<br/>
 <br/>
-🎓 Minha formação em Tecnólogo em Sistemas para Internet pelo Centro Universitário Senac proporcionou uma base sólida em desenvolvimento web e tecnologias correlatas. 
+🏗️ Além do desenvolvimento, mantenho um homelab próprio onde coloco em prática fundamentos de infraestrutura, observabilidade, automação e segurança. Um único desktop administrado inteiramente por linha de comando via SSH, com virtualização, monitoramento em tempo real, DNS privado, tunelamento reverso, IA local rodando na GPU, automação de rotinas de sistema e integração com ferramentas de observabilidade. Tudo documentado numa série de artigos técnicos no Medium.<br/>
 <br/>
+🤖 Integro modelos de linguagem ao fluxo de desenvolvimento como ferramenta real: modelos em nuvem e locais unificados num único proxy, consumidos direto do editor e do terminal. A escolha do modelo depende da tarefa — não do hype.<br/>
 <br/>
-📚 Atualmente, estou cursando uma <strong>Pós-graduação Lato Sensu (MBA) em DevOps, Automation & Cloud Strategy pela FIAP</strong> com foco em práticas avançadas de DevOps, automação, segurança e estratégias em cloud pública, voltadas à transformação da TI organizacional.
-<br/>
+✍️ Escrevo sobre infraestrutura, DevOps e desenvolvimento no <a href="https://medium.com/@caiobarilli">Medium</a>, com foco em implementações reais e problemas concretos.<br/>
 <br/>
 Minhas áreas de especialização incluem:<br/>
 <br/>
-🔧 Backend: PHP (Laravel, Wordpress), Javascript (Nest.js)<br/>
-💻 Frontend: Typescript, React, Expo, Next.js, Angular, Styled-components e Tailwind CSS<br/>
-🗄️ Bancos de Dados: PostgreSQL, MySQL e MongoDB
-<br/>
+🔧 Backend: PHP (Laravel, WordPress Bedrock/Sage), JavaScript (Nest.js), Livewire<br/>
+💻 Frontend: TypeScript, React, Next.js, Expo, Angular, Tailwind CSS<br/>
+☁️ Infra & DevOps: Docker, Terraform, AWS, Redis, Prometheus, Grafana, CI/CD, SSH, virtualização<br/>
+🗄️ Bancos de Dados: PostgreSQL, MySQL, MongoDB<br/>
+🧪 Qualidade: PHPStan, Pest, testes automatizados com CI/CD<br/>
 </p>
-
-
