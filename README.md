@@ -11,9 +11,8 @@
 <img src="https://raw.githubusercontent.com/caiobarilli/caiobarilli/main/public/img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <br/>
-
 <p align="left">
-Olá, eu sou Caio, desenvolvedor fullstack com mais de 10 anos de experiência no mercado. Formado em Sistemas para Internet pelo Centro Universitário Senac e MBA em DevOps, Automation & Cloud Strategy pela FIAP.<br/>
+Olá, eu sou Caio, desenvolvedor fullstack com mais de 10 anos de experiência no mercado. Formado em Sistemas para Internet pelo Centro Universitário Senac e especialista em DevOps, Cloud e Automação pela FIAP.<br/>
 <br/>
 💡 Ao longo da carreira, desenvolvi projetos como freelancer e em empresas, da concepção à entrega. Liderei equipes, defini arquiteturas e garanti boas práticas em projetos de diferentes portes e complexidades. Hoje atuo na intersecção entre engenharia de software, infraestrutura e automação.<br/>
 <br/>
