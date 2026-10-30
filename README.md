@@ -41,6 +41,5 @@ Olá, eu sou o Caio, Full Stack Engineer com mais de 10 anos em desenvolvimento 
 ### 📌 Projetos em destaque
 
 - **[PHPorto](https://github.com/caiobarilli/PHPorto)**: uma ponte Windows ↔ WSL em PHP 8.5 puro, com mais de 1.400 testes, PHPStan no nível max e decisões de segurança registradas em ADR (allowlist, manifesto SHA-256 e UAC por ação).
-- **[homelab](https://github.com/caiobarilli/homelab)**: observabilidade com Prometheus e Grafana e um gateway de modelos de IA com LiteLLM.
 - **[terraform-bedrock](https://github.com/caiobarilli/terraform-bedrock)**: WordPress Bedrock provisionado com Terraform sobre Docker.
 - **[uvalab-sage-theme](https://github.com/caiobarilli/uvalab-sage-theme)**: um tema WooCommerce com Sage, Acorn (Laravel 12), Livewire 4 e Tailwind 4.
