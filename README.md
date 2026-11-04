@@ -40,6 +40,7 @@ Olá, eu sou o Caio, Full Stack Engineer com mais de 10 anos em desenvolvimento 
 
 ### 📌 Projetos em destaque
 
+- **[PHParrot](https://github.com/caiobarilli/PHParrot)**: um app Laravel 13 (PHP 8.5) para treinar idiomas pela fala, com transcrição local via whisper.cpp em container, ambiente em Docker com Terraform e portão de qualidade com Larastan no nível max, Pest e Trivy.
 - **[PHPorto](https://github.com/caiobarilli/PHPorto)**: uma ponte Windows ↔ WSL em PHP 8.5 puro, com mais de 1.400 testes, PHPStan no nível max e decisões de segurança registradas em ADR (allowlist, manifesto SHA-256 e UAC por ação).
 - **[terraform-bedrock](https://github.com/caiobarilli/terraform-bedrock)**: WordPress Bedrock provisionado com Terraform sobre Docker.
 - **[uvalab-sage-theme](https://github.com/caiobarilli/uvalab-sage-theme)**: um tema WooCommerce com Sage, Acorn (Laravel 12), Livewire 4 e Tailwind 4.
