@@ -33,7 +33,7 @@ Olá, eu sou o Caio, Full Stack Engineer com mais de 10 anos em desenvolvimento 
 ☁️ Infra & DevOps: Docker, Terraform, Linux, CI/CD (GitHub Actions, Jenkins), Prometheus, Grafana, Hyper-V, WSL<br/>
 🤖 IA: Claude Code, agentes e MCP, LiteLLM<br/>
 🗄️ Bancos de dados: MySQL, PostgreSQL, SQLite, MongoDB, Redis<br/>
-🧪 Qualidade: PHPStan (nível max), Pest, Pester, PHP-CS-Fixer, ADRs<br/>
+🧪 Qualidade: PHPStan, Pest, Pester, PHP-CS-Fixer, ADRs<br/>
 </p>
 
 <br clear="right"/>
